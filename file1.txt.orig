@@ -1,5 +1,8 @@
 First line by master
 second line by feature branch
 Third line by feature branch
+<<<<<<< HEAD
 Fourth line by Ramya
+=======
 Fourth line by Murali
+>>>>>>> feature
